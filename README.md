@@ -31,6 +31,8 @@ state_space = env.observation_space.shape[0]
 action_space = env.action_space.n
 ````
 
+Linke to notebook: https://github.com/EngrIBGIT/CartPole-Q-Learning-Agent/blob/main/1.%20Basic%20reinforcement%20learning%20agent%20using%20the%20OpenAI%20Gym%20library.ipynb
+
 **How the Agent Learns**
 
 The agent learns through Q-learning, an off-policy reinforcement learning algorithm. It interacts with the environment, exploring various actions (e.g., moving left or right) and updating its Q-table based on the rewards it receives. 
