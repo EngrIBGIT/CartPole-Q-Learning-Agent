@@ -7,4 +7,6 @@ seaborn
 Pillow
 time
 pickle
+pipenv
+poetry
 warnings
