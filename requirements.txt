@@ -1,0 +1,10 @@
+streamlit
+gym
+numpy
+matplotlib
+plotly
+seaborn
+Pillow
+time
+pickle
+warnings
