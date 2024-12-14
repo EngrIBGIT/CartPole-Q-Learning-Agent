@@ -6,7 +6,6 @@ scikit-learn
 plotly
 seaborn
 Pillow
-time
 pickle
 pipenv
 poetry
