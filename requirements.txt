@@ -2,6 +2,7 @@ streamlit
 gym
 numpy
 matplotlib
+scikit-learn
 plotly
 seaborn
 Pillow
